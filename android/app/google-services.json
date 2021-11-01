@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531709651565",
+    "project_id": "easy-brand-shopping-app",
+    "storage_bucket": "easy-brand-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531709651565:android:69c2c99068c0bc2616ad64",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531709651565-4d9rv4hojcki3m5d47k6na22uhjho1d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping_app",
+            "certificate_hash": "ab98e3b3a3e307618d7249d2612a2ab1f4ba5683"
+          }
+        },
+        {
+          "client_id": "531709651565-ujc3bijauq5reid61uuveb1f6eu344tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciZi4lK6jjyiNFYFYrpxUn3zYAgHSqwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531709651565-ujc3bijauq5reid61uuveb1f6eu344tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
